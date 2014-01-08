@@ -1,0 +1,32 @@
+# Basic information
+name: Ghost Theme # Site heading
+tagline: Jekyll Theme # Site Sub Heading
+description: "Jekyll Theme" # Used in home meta tag
+author:
+  name: Ghost Theme
+  email: your@email.address
+  # Social services, link displayed when username exists
+  github: github_username
+  twitter: twitter_username
+  google: google_username # will be: https://plus.google.com/+google_username
+  linkedin: linkedin_username # will be: https://linkedin.com/in/linkedin_username
+
+paginate: 5 # posts per page
+permalink: :title # permlink structure
+
+# URL
+url: http://your-domain
+assets_path: /assets
+
+atom_path: /atom.xml
+rss_path: /rss.xml
+
+comments:
+    provider: false # replace with true to enable
+    disqus:
+      short_name: your_disqus_provieded_name
+
+analytics:
+    provider: false # replace with true to enable
+    google:
+        tracking_id: 'UA-12345678-1' # Your traking ID
