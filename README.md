@@ -3,6 +3,8 @@ Ghost Jekyll Theme
 
 Ghost - a Jekyll theme, similar to Ghost.org default theme.
 
+*Work still in progress..*
+
 #Features:
 - Lightweight, just the styles we need
 - Built using Twitter Bootstrap 3
