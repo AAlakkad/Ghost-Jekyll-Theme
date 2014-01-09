@@ -14,4 +14,5 @@ Ghost - a Jekyll theme, similar to Ghost.org default theme.
 - [ ] Add design source files.
 - [ ] Add sharing buttons.
 - [ ] Add Google Authorship.
+- [ ] Add hover effects on pagination buttons.
 - [ ] Publish to http://jekyllthemes.org/
