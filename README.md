@@ -12,6 +12,7 @@ Ghost - a Jekyll theme, similar to Ghost.org default theme.
 - Disqus support.
 
 ##Todo
+- [ ] Upload screenshot.
 - [ ] Add usage instructions.
 - [ ] Add design source files.
 - [ ] Add sharing buttons.
